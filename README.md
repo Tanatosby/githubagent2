@@ -1,2 +1,1 @@
-# githubagent2
-A github agent created with Cursor - vibe coding
+<p>A github agent created with cursor app. This project was developed in cursor with vibe coding. ✨</p>
