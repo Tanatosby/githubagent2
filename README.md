@@ -1,1 +1,1 @@
-<p>A github agent created with cursor app. This project was developed in cursor with vibe coding. ✨</p>
+<p>A github agent created with cursor app. This project was developed in cursor with vibe coding. ✨ 👋 😎</p>
